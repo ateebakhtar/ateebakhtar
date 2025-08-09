@@ -1,68 +1,79 @@
 # Ateeb Akhtar
 
 **Email:** [ateebakhtar1997@gmail.com](mailto:ateebakhtar1997@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ateeb-akhtar/](https://linkedin.com/in/ateeb-akhtar/)  
+**LinkedIn:** [linkedin.com/in/ateeb-akhtar](https://linkedin.com/in/ateeb-akhtar/)  
 **GitHub:** [github.com/ateebakhtar](https://github.com/ateebakhtar)  
+**Phone:** +92 313 2420291  
+**Location:** Karachi, Pakistan
 
 ---
 
-## Education
+## 🎓 Education
 
 **BS Computer Science**  
-**National University of Computer and Emerging Sciences, Karachi, Pakistan**  
-**Aug 2016 - Jun 2020**
+National University of Computer and Emerging Sciences (FAST-NUCES), Karachi, Pakistan  
+**Aug 2016 – Jun 2020**
 
 ---
 
-## Skills
+## 💡 Skills
 
-- **Android Development:** Android Studio, Android SDK, Android NDK, Material Design Guidelines, Google Play Services
-- **User Interface:** XML Layouts, ConstraintLayout, RecyclerView, Compose Views, Navigation, Glide
-- **Libraries and Frameworks:** Room Persistence Library, ObjectBox, Retrofit, WorkManager, Dagger, Hilt, RxJava, Coroutines, Navigation Component, LiveData and Flow, Data Binding, ViewModels, MVVM, MVI, Mockito, Gson/Moshi
-- **Programming Languages:** Java, Kotlin
-
----
-
-## Work Experience
-
-### **Bazaar Technologies**
-
-#### Senior Software Engineer (Jul 2022 - Present)
-- Led the development of Bazaar’s Rider Application, implementing MVI architecture and location tracking.
-- Spearheaded best practices and mentored junior team members.
-- Implemented features like category-level discounts and barcode scanning functionality.
-- Collaborated with cross-functional teams to deliver solutions on schedule.
-
-#### Software Engineer (Jan 2021 - Jun 2022)
-- Developed Bazaar’s Warehouse Application using MVVM architecture.
-- Designed and implemented Single Application architecture with Jetpack Navigation library.
-- Implemented features such as inventory tracking and item management.
-
-### **CEE Solution**
-
-#### Associate Software Engineer (Aug 2020 - Dec 2020)
-- Implemented barcoding in a Business Intelligence Application to improve item search time.
-- Developed a Conditional Customer Feedback Application.
+- **Android Development:** Android Studio, Android SDK, Android NDK, Material Design Guidelines, Google Play Services  
+- **User Interface:** XML Layouts, Jetpack Compose, RecyclerView, Navigation, Glide, ConstraintLayout  
+- **Libraries & Frameworks:** Room, ObjectBox, Retrofit, WorkManager, Dagger, Hilt, RxJava, Coroutines, Navigation Component, LiveData & Flow, Data Binding, ViewModels, MVVM, MVI, Mockito, Mockk, Maestro, Gson/Moshi  
+- **Programming Languages:** Java, Kotlin  
 
 ---
 
-## Projects
+## 💼 Work Experience
 
-### **Bazaar’s Rider Application**
-A last-mile solution for managing and streamlining deliveries.
-- Applied MVI (Model-View-Intent) application architecture.
-- Used Kotlin Flow for communication between ViewModel and Views.
-- Implemented UI with XML and Jetpack Compose.
-- Used ObjectBox for local data storage.
-- Achieved 90% unit testing coverage using the Mockito library.
+### **Rewaa** — Software Engineer II  
+*June 2024 – Present*  
+- Implemented **Customer Display Screen** support for Telpo C9 devices with item listing, spotlight, and real-time totals, contributing to 2.53M SAR in H1 2025 sales (30% of total). Delivered ahead of schedule.  
+- Enhanced printer infrastructure with **USB Printer Integration**, enabling auto-detection/configuration for multiple brands via Remote Config and manual fallback. Achieved 1.04M printed invoices in June 2025 (39% of total monthly invoices).  
+- Developed **USB Barcode Scanner** support with broad compatibility and Remote Config rollout, resulting in 78% of all barcode scans in Q2 2025 (75K scanned items).  
+- Introduced **Park Sale & Send to Kitchen** features for F&B businesses, enabling paused transactions and automatic kitchen printing. Recorded 17.6K paused sales in first month without marketing.  
 
-### **Bazaar’s Warehouse Application**
-An asset tracking software for managing items and inventory across warehouses.
-- Applied MVVM (Model-View-ViewModel) application architecture.
-- Designed and implemented Single Application architecture with the Jetpack Navigation library.
-- Used Strategy Design pattern for code organization and reusability.
-- Implemented UI with Jetpack View Binding.
+### **Bazaar Technologies** — Senior Software Engineer  
+*Jul 2022 – Jun 2024*  
+- Led development of **Rider Application**, implementing MVI architecture, location tracking algorithm, and clean UI/data handling architecture.  
+- Delivered key features including category-level discounts and barcode scanning.  
+- Maintained Rider and Warehouse Applications as part of Bazaar’s software ecosystem.  
+- Mentored junior engineers and collaborated cross-functionally to meet delivery timelines.
+
+### **Bazaar Technologies** — Software Engineer  
+*Jan 2021 – Jun 2022*  
+- Developed **Warehouse Application** using MVVM architecture and Jetpack Navigation.  
+- Designed and implemented **Single Application Architecture** with Strategy Design Pattern.  
+- Improved UI organization with Jetpack View Binding.  
+- Partnered with stakeholders to refine requirements and prioritize features.
+
+### **CEE Solution** — Associate Software Engineer  
+*Aug 2020 – Dec 2020*  
+- Integrated barcoding into a Business Intelligence application, improving item search times.  
+- Built Conditional Customer Feedback application for targeted feedback collection.
 
 ---
 
-Feel free to reach out for more information or collaboration opportunities!
+## 🚀 Projects
+
+### **Rider – Last Mile Delivery App**  
+- Applied MVI architecture with Kotlin Flow for VM–View communication.  
+- Hybrid UI implementation with XML and Jetpack Compose.  
+- Local data storage with ObjectBox.  
+- Achieved 90% unit test coverage using Mockito.
+
+### **Bazaar’s Warehouse Application**  
+- Asset tracking and inventory management solution.  
+- MVVM architecture with Jetpack Navigation.  
+- Used Strategy Design Pattern for code reusability.  
+- UI built with Jetpack View Binding.
+
+### **MySite – Construction Management**  
+- Progress tracking using 360° images via Insta360 integration.  
+- MVVM architecture with Single Application architecture pattern.  
+- Image compression and chunked transfer logic for optimized uploads.
+
+---
+
+📫 *Feel free to reach out for collaboration opportunities or to discuss Android development!*
